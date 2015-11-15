@@ -1,0 +1,15 @@
+[submodule "profiles/commerce_kickstart/libraries/jquery_expander"]
+path = profiles/commerce_kickstart/libraries/jquery_expander
+url = https://github.com/kswedberg/jquery-expander.git
+
+[submodule "profiles/commerce_kickstart/libraries/jquery_ui_spinner"]
+path = profiles/commerce_kickstart/libraries/jquery_ui_spinner
+url = https://github.com/btburnett3/jquery.ui.spinner.git
+
+[submodule "profiles/commerce_kickstart/libraries/selectnav.js"]
+path = profiles/commerce_kickstart/libraries/selectnav.js
+url = https://github.com/lukaszfiszer/selectnav.js.git
+
+[submodule "profiles/commerce_kickstart/libraries/jquery.bxslider"]
+path = profiles/commerce_kickstart/libraries/jquery.bxslider
+url = https://github.com/stevenwanderski/bxslider-4.git
